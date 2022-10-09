@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>花上醉,花下眠</title>
+        <link>https://auroraming.github.io/en/</link>
+        <description>人未醉，歌宛转，兴悠扬。太平胸次，笑他磊磈欲成狂</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <atom:link href="https://auroraming.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
